@@ -42,10 +42,10 @@
 * `pip3 install colorama`
 * `pip3 install click`
 
-  git clone https://github.com/cyberhack255/ddos-py-ddoser.git
-  cd ddos-py-ddoser
-  pip3 install -r requirements.txt
-  python3 ddos.py
+  * `git clone https://github.com/cyberhack255/ddos-py-ddoser.git
+  * cd ddos-py-ddoser
+  * pip3 install -r requirements.txt
+  * python3 ddos.py'
 
 <details id="missing-code-coverage">
   <summary>Need help with installation</summary>
